@@ -1,64 +1,19 @@
-# 👋 Hi, I’m Kunal Patil
+# 💫 About Me:
+I am a passionate Information Technology undergraduate with strong hands-on experience in full-stack web development and applied machine learning. I enjoy building scalable, real-world systems where backend engineering and AI models work together in production environments.<br><br>My technical experience spans the MERN stack, Python-based ML systems, and Flask/FastAPI servers for deploying computer vision and deep learning models. I have worked on real-time analytics projects involving object detection, gesture recognition, and safety-focused AI solutions, including a national-level hackathon–winning project.<br><br>I am particularly interested in solving practical problems using data, automation, and intelligent systems, and I continuously focus on improving my problem-solving skills, system design understanding, and production-level coding practices.
 
-I am an Information Technology undergraduate focused on **applied Machine Learning and backend systems**, with a strong interest in building **production-ready, open-source software**.
 
-My primary expertise lies in **Computer Vision, AI-powered analytics, and ML-backed backend services**, where I work on taking research-level ideas into scalable, real-world systems.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunalp_1504) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalpatil1504) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunal.patil15072004@gmail.com) 
 
-I enjoy contributing to codebases where **clean architecture, reproducibility, and real-world impact** matter more than quick demos.
-
----
-
-## 🎯 Current Focus
-- Open-source contributions in **ML / Computer Vision**
-- Backend systems for **model inference & analytics**
-- Preparing for **Google Summer of Code (GSoC) 2026**
-
----
-
-## 🧠 Core Technical Strengths
-
-### Machine Learning & AI
-- Computer Vision (Object Detection, Gesture Recognition, Safety Analytics)
-- Deep Learning (CNNs, transfer learning, PyTorch, TensorFlow)
-- Data pipelines, evaluation, and model optimization
-
-### Backend & Systems
-- Python-based ML services (Flask, FastAPI)
-- REST APIs for real-time inference
-- System design for ML-in-production
-- MERN stack (for ML-integrated applications)
-
-### Tools & Practices
-- Git & GitHub (PRs, reviews, issue discussions)
-- Docker (basic)
-- Cloud deployment (AWS, Firebase, Render)
-- Clean code, documentation-first development
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kunalpatil1507&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kunalpatil1507&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpatil1507&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=kunalpatil1507&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 Highlight Project
-**AI-powered Women Safety Analytics Platform**  
-🏅 Winner – Smart India Hackathon 2024  
-
-A real-time safety monitoring system combining:
-- Computer vision models
-- Backend decision logic
-- Web & mobile interfaces
-
-(Repository links contain architecture, datasets, and deployment details.)
-
----
-
-## 🌱 Open Source & Learning Philosophy
-I believe good open-source contributors:
-- Read code before writing code
-- Communicate clearly with maintainers
-- Optimize for maintainability over hacks
-
-I am actively contributing to open-source projects and aim to work closely with mentors and communities during **GSoC 2026**.
-
----
-
-## 🔗 Connect with Me
-- LinkedIn: https://linkedin.com/in/kunalpatil1504
-- Email: mailto:kunal.patil15072004@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+change this accordingly
